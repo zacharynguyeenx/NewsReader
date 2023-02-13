@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "ambassador",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/envoy/Ambassador.git",
+      "state" : {
+        "revision" : "447cf56f692999153bd261b1775ea4a58f7f7be9",
+        "version" : "4.0.5"
+      }
+    },
+    {
+      "identity" : "embassy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/envoy/Embassy.git",
+      "state" : {
+        "revision" : "8469f2c1b334a7c1c3566e2cb2f97826c7cca898",
+        "version" : "4.1.6"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "415b1d97fb38bda1e5a6b2dde63354720832110b",
+        "version" : "7.6.1"
+      }
+    }
+  ],
+  "version" : 2
+}

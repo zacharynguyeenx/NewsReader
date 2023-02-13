@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="collection view cell content view" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ArticleListTileItemCell" id="Qb5-aU-Kkc" customClass="ArticleListTileItemCell" customModule="NewsReader" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="200" height="332.33333333333331"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="YCP-53-VWg">
+                <rect key="frame" x="0.0" y="0.0" width="200" height="332.33333333333331"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="VEv-cB-Hvg">
+                        <rect key="frame" x="20" y="20.000000000000007" width="160" height="106.66666666666669"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="VEv-cB-Hvg" secondAttribute="height" multiplier="3:2" id="zzX-se-pfy"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem ipsum dolor sit amet" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5BH-EE-DjK">
+                        <rect key="frame" x="20" y="134.66666666666666" width="160" height="40.666666666666657"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8Z3-ik-cQm">
+                        <rect key="frame" x="20" y="183.33333333333334" width="160" height="107.66666666666666"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem Ipsum" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GIj-1u-2lO">
+                        <rect key="frame" x="20" y="299" width="160" height="13.333333333333314"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="11"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="GIj-1u-2lO" secondAttribute="bottom" constant="20" symbolic="YES" id="62J-7V-Ia0"/>
+                    <constraint firstAttribute="trailing" secondItem="VEv-cB-Hvg" secondAttribute="trailing" constant="20" symbolic="YES" id="6Xj-uS-PgK"/>
+                    <constraint firstItem="8Z3-ik-cQm" firstAttribute="top" secondItem="5BH-EE-DjK" secondAttribute="bottom" constant="8" symbolic="YES" id="D4S-Ui-OiB"/>
+                    <constraint firstItem="VEv-cB-Hvg" firstAttribute="top" secondItem="YCP-53-VWg" secondAttribute="top" constant="20" symbolic="YES" id="JZk-6g-vRA"/>
+                    <constraint firstItem="VEv-cB-Hvg" firstAttribute="leading" secondItem="YCP-53-VWg" secondAttribute="leading" constant="20" symbolic="YES" id="OjM-6N-cu4"/>
+                    <constraint firstItem="GIj-1u-2lO" firstAttribute="top" secondItem="8Z3-ik-cQm" secondAttribute="bottom" constant="8" symbolic="YES" id="Q1u-6p-oWz"/>
+                    <constraint firstItem="8Z3-ik-cQm" firstAttribute="leading" secondItem="YCP-53-VWg" secondAttribute="leading" constant="20" symbolic="YES" id="TUO-IE-XoM"/>
+                    <constraint firstItem="5BH-EE-DjK" firstAttribute="leading" secondItem="YCP-53-VWg" secondAttribute="leading" constant="20" symbolic="YES" id="dUM-Di-Ami"/>
+                    <constraint firstAttribute="trailing" secondItem="5BH-EE-DjK" secondAttribute="trailing" constant="20" symbolic="YES" id="dXY-wn-SVm"/>
+                    <constraint firstItem="5BH-EE-DjK" firstAttribute="top" secondItem="VEv-cB-Hvg" secondAttribute="bottom" constant="8" symbolic="YES" id="dxh-Te-zdX"/>
+                    <constraint firstAttribute="trailing" secondItem="GIj-1u-2lO" secondAttribute="trailing" constant="20" symbolic="YES" id="h5L-C1-6Qn"/>
+                    <constraint firstAttribute="trailing" secondItem="8Z3-ik-cQm" secondAttribute="trailing" constant="20" symbolic="YES" id="p2h-dg-TDc"/>
+                    <constraint firstItem="GIj-1u-2lO" firstAttribute="leading" secondItem="YCP-53-VWg" secondAttribute="leading" constant="20" symbolic="YES" id="whg-g3-9EL"/>
+                </constraints>
+            </collectionViewCellContentView>
+            <size key="customSize" width="200" height="487"/>
+            <connections>
+                <outlet property="abstractLabel" destination="8Z3-ik-cQm" id="9Ic-fc-3Zg"/>
+                <outlet property="authorLabel" destination="GIj-1u-2lO" id="cKl-LV-X4K"/>
+                <outlet property="headlineLabel" destination="5BH-EE-DjK" id="Lxo-BE-dp2"/>
+                <outlet property="imageView" destination="VEv-cB-Hvg" id="w5d-5Z-apY"/>
+            </connections>
+            <point key="canvasLocation" x="801.52671755725191" y="68.427230046948353"/>
+        </collectionViewCell>
+    </objects>
+</document>

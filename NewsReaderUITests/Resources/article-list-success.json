@@ -1,0 +1,1106 @@
+{
+    "id": 67184313,
+    "categories": [],
+    "authors": [],
+    "url": "/content/dam/lists/1/3/z/z/q/x/list.html",
+    "lastModified": 1676277678262,
+    "onTime": 1425955024417,
+    "sponsored": false,
+    "displayName": "AFR iPad Editor's Choice",
+    "assets": [
+        {
+            "id": 1520638343,
+            "categories": [
+                {
+                    "name": "Chanticleer",
+                    "sectionPath": "/brand/chanticleer",
+                    "orderNum": 1
+                },
+                {
+                    "name": "Columns",
+                    "sectionPath": "/opinion/columns",
+                    "orderNum": 0
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Chanticleer",
+                    "title": "Columnist",
+                    "email": "",
+                    "relatedAssets": [],
+                    "relatedImages": [
+                        {
+                            "id": 1030117386,
+                            "categories": [],
+                            "brands": [],
+                            "authors": [],
+                            "url": "http://localhost:8080/image.jpg",
+                            "lastModified": 1549519435387,
+                            "sponsored": false,
+                            "description": "",
+                            "photographer": "",
+                            "type": "afrWoodcutAuthorImage",
+                            "width": 140,
+                            "height": 140,
+                            "assetType": "IMAGE",
+                            "timeStamp": 1549519435387
+                        },
+                        {
+                            "id": 67385547,
+                            "categories": [],
+                            "brands": [],
+                            "authors": [],
+                            "url": "http://localhost:8080/image.jpg",
+                            "lastModified": 1426357827234,
+                            "sponsored": false,
+                            "description": " ",
+                            "photographer": "",
+                            "type": "afrWoodcutAuthorImage",
+                            "width": 140,
+                            "height": 140,
+                            "assetType": "IMAGE",
+                            "timeStamp": 1426357827234
+                        }
+                    ]
+                }
+            ],
+            "url": "http://localhost:8080/article.html",
+            "lastModified": 1676263085061,
+            "sponsored": false,
+            "headline": "How JB Hi-Fi and IAG show the squeeze on consumers",
+            "indexHeadline": "How JB Hi-Fi and IAG show the squeeze on consumers",
+            "tabletHeadline": "",
+            "theAbstract": "Slowing appliance sales and surging insurance premiums show just how spending is changing in an environment that’s very different to before the pandemic.",
+            "byLine": "James Thomson",
+            "acceptComments": false,
+            "numberOfComments": 0,
+            "relatedAssets": [
+                {
+                    "id": 1520638157,
+                    "categories": [
+                        {
+                            "name": "Retail",
+                            "sectionPath": "/business/retail",
+                            "orderNum": 0
+                        }
+                    ],
+                    "authors": [
+                        {
+                            "name": "Simon Evans",
+                            "title": "Senior Reporter",
+                            "email": "simon.evans@afr.com ",
+                            "relatedAssets": [],
+                            "relatedImages": [
+                                {
+                                    "id": 1030202070,
+                                    "categories": [],
+                                    "brands": [],
+                                    "authors": [],
+                                    "url": "http://localhost:8080/image.jpg",
+                                    "lastModified": 1553562399256,
+                                    "sponsored": false,
+                                    "description": "",
+                                    "photographer": "",
+                                    "type": "afrWoodcutAuthorImage",
+                                    "width": 140,
+                                    "height": 140,
+                                    "assetType": "IMAGE",
+                                    "timeStamp": 1553562399256
+                                }
+                            ]
+                        }
+                    ],
+                    "url": "http://localhost:8080/article.html",
+                    "lastModified": 1676278022879,
+                    "sponsored": false,
+                    "assetType": "ARTICLE",
+                    "headline": "JB Hi-Fi says discounts on the way as sales slow",
+                    "timeStamp": 1676274806000
+                },
+                {
+                    "id": 1520637854,
+                    "categories": [
+                        {
+                            "name": "Banking \u0026 Finance",
+                            "sectionPath": "/business/banking-and-finance",
+                            "orderNum": 0
+                        }
+                    ],
+                    "authors": [
+                        {
+                            "name": "Liam Walsh",
+                            "title": "Reporter",
+                            "email": "liam.walsh@fairfaxmedia.com.au",
+                            "relatedAssets": [],
+                            "relatedImages": []
+                        }
+                    ],
+                    "url": "http://localhost:8080/article.html",
+                    "lastModified": 1676268659095,
+                    "sponsored": false,
+                    "assetType": "ARTICLE",
+                    "headline": "IAG: Premium surge won’t kill off customer growth goal",
+                    "timeStamp": 1676264380000
+                }
+            ],
+            "relatedImages": [
+                {
+                    "id": 1031737698,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676249883155,
+                    "sponsored": false,
+                    "description": "Terry Smart says the retail market will likely see more discounting as the year progresses. ",
+                    "photographer": "Eamon Gallagher",
+                    "type": "wideLandscape",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676249883155
+                },
+                {
+                    "id": 1031737698,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676249883155,
+                    "sponsored": false,
+                    "description": "Terry Smart says the retail market will likely see more discounting as the year progresses. ",
+                    "photographer": "Eamon Gallagher",
+                    "type": "thumbnail",
+                    "width": 375,
+                    "height": 250,
+                    "assetType": "IMAGE",
+                    "timeStamp": 1676249883155
+                },
+                {
+                    "id": 1031737698,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676249883155,
+                    "sponsored": false,
+                    "description": "Terry Smart says the retail market will likely see more discounting as the year progresses. ",
+                    "photographer": "Eamon Gallagher",
+                    "type": "afrArticleLead",
+                    "width": 1536,
+                    "height": 1010,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "large@2x": "",
+                    "timeStamp": 1676249883155
+                },
+                {
+                    "id": 1031737698,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676249883155,
+                    "sponsored": false,
+                    "description": "Terry Smart says the retail market will likely see more discounting as the year progresses. ",
+                    "photographer": "Eamon Gallagher",
+                    "type": "articleLeadWide",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676249883155
+                },
+                {
+                    "id": 1031737698,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676249883155,
+                    "sponsored": false,
+                    "description": "Terry Smart says the retail market will likely see more discounting as the year progresses. ",
+                    "photographer": "Eamon Gallagher",
+                    "type": "afrIndexLead",
+                    "width": 1536,
+                    "height": 1010,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676249883155
+                },
+                {
+                    "id": 1031737698,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676249883155,
+                    "sponsored": false,
+                    "description": "Terry Smart says the retail market will likely see more discounting as the year progresses. ",
+                    "photographer": "Eamon Gallagher",
+                    "type": "landscape",
+                    "width": 1174,
+                    "height": 783,
+                    "assetType": "IMAGE",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676249883155
+                }
+            ],
+            "signPost": "OPINION",
+            "companies": [
+                {
+                    "id": 997133799,
+                    "companyCode": "JBH",
+                    "companyName": "JB HI-FI LIMITED",
+                    "abbreviatedName": "JB Hi-Fi Ltd",
+                    "exchange": "ASX",
+                    "companyNumber": "93220136"
+                },
+                {
+                    "id": 997135824,
+                    "companyCode": "IAG",
+                    "companyName": "INSURANCE AUSTRALIA GROUP LIMITED",
+                    "abbreviatedName": "Insurance Australia",
+                    "exchange": "ASX",
+                    "companyNumber": "90739923"
+                }
+            ],
+            "legalStatus": "None",
+            "sources": [
+                {
+                    "tagId": "AFR"
+                }
+            ],
+            "assetType": "ARTICLE",
+            "overrides": {
+                "overrideHeadline": "How JB Hi-Fi and IAG show the squeeze on consumers",
+                "overrideAbstract": "Slowing appliance sales and surging insurance premiums show just how spending is changing in an environment that’s very different to before the pandemic."
+            },
+            "timeStamp": 1676249859000
+        },
+        {
+            "id": 1520637463,
+            "categories": [
+                {
+                    "name": "Rear Window",
+                    "sectionPath": "/brand/rear-window",
+                    "orderNum": 0
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Joe Aston",
+                    "title": "Columnist",
+                    "email": "joe.aston@afr.com ",
+                    "relatedAssets": [],
+                    "relatedImages": [
+                        {
+                            "id": 1030192038,
+                            "categories": [],
+                            "brands": [],
+                            "authors": [],
+                            "url": "http://localhost:8080/image.jpg",
+                            "lastModified": 1553046073852,
+                            "sponsored": false,
+                            "description": "",
+                            "photographer": "",
+                            "type": "afrWoodcutAuthorImage",
+                            "width": 140,
+                            "height": 140,
+                            "assetType": "IMAGE",
+                            "timeStamp": 1553046073852
+                        }
+                    ]
+                }
+            ],
+            "url": "http://localhost:8080/article.html",
+            "lastModified": 1676267195332,
+            "sponsored": false,
+            "headline": "Andrew Bragg’s peculiar mortgage",
+            "indexHeadline": "Andrew Bragg’s peculiar mortgage",
+            "tabletHeadline": "",
+            "theAbstract": "It’s highly irregular for an Australian senator to mortgage his property to the family office of a wealthy individual.",
+            "byLine": "Joe Aston",
+            "acceptComments": false,
+            "numberOfComments": 0,
+            "relatedAssets": [
+                {
+                    "id": 1520593538,
+                    "categories": [
+                        {
+                            "name": "Rear Window",
+                            "sectionPath": "/brand/rear-window",
+                            "orderNum": 0
+                        }
+                    ],
+                    "authors": [],
+                    "url": "http://localhost:8080/article.html",
+                    "lastModified": 1664360208911,
+                    "sponsored": false,
+                    "assetType": "ARTICLE",
+                    "headline": "Andrew Bragg screams into the void",
+                    "timeStamp": 1664335992000
+                },
+                {
+                    "id": 1520589942,
+                    "categories": [
+                        {
+                            "name": "Banking \u0026 Finance",
+                            "sectionPath": "/business/banking-and-finance",
+                            "orderNum": 0
+                        }
+                    ],
+                    "authors": [
+                        {
+                            "name": "James Eyers",
+                            "title": "Senior Reporter",
+                            "email": "jeyers@afr.com.au",
+                            "relatedAssets": [],
+                            "relatedImages": [
+                                {
+                                    "id": 1030192018,
+                                    "categories": [],
+                                    "brands": [],
+                                    "authors": [],
+                                    "url": "http://localhost:8080/image.jpg",
+                                    "lastModified": 1553045553144,
+                                    "sponsored": false,
+                                    "description": "",
+                                    "photographer": "",
+                                    "type": "afrWoodcutAuthorImage",
+                                    "width": 140,
+                                    "height": 140,
+                                    "assetType": "IMAGE",
+                                    "timeStamp": 1553045553144
+                                }
+                            ]
+                        }
+                    ],
+                    "url": "http://localhost:8080/article.html",
+                    "lastModified": 1663527600000,
+                    "onTime": 1663527600000,
+                    "sponsored": false,
+                    "assetType": "ARTICLE",
+                    "headline": "Lib senator drafts crypto bill to regulate stablecoin, digital yuan",
+                    "timeStamp": 1663527600000
+                }
+            ],
+            "relatedImages": [
+                {
+                    "id": 1031123928,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1623894197016,
+                    "sponsored": false,
+                    "description": "Senator Andrew Bragg.",
+                    "photographer": "Alex Ellinghausen",
+                    "type": "wideLandscape",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1623894197016
+                },
+                {
+                    "id": 1031123928,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1623894197016,
+                    "sponsored": false,
+                    "description": "Senator Andrew Bragg.",
+                    "photographer": "Alex Ellinghausen",
+                    "type": "thumbnail",
+                    "width": 375,
+                    "height": 250,
+                    "assetType": "IMAGE",
+                    "timeStamp": 1623894197016
+                },
+                {
+                    "id": 1031123928,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1623894197016,
+                    "sponsored": false,
+                    "description": "Senator Andrew Bragg.",
+                    "photographer": "Alex Ellinghausen",
+                    "type": "afrArticleLead",
+                    "width": 1536,
+                    "height": 1010,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "large@2x": "",
+                    "timeStamp": 1623894197016
+                },
+                {
+                    "id": 1031123928,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1623894197016,
+                    "sponsored": false,
+                    "description": "Senator Andrew Bragg.",
+                    "photographer": "Alex Ellinghausen",
+                    "type": "articleLeadWide",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1623894197016
+                },
+                {
+                    "id": 1031123928,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1623894197016,
+                    "sponsored": false,
+                    "description": "Senator Andrew Bragg.",
+                    "photographer": "Alex Ellinghausen",
+                    "type": "afrIndexLead",
+                    "width": 1536,
+                    "height": 1010,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1623894197016
+                },
+                {
+                    "id": 1031123928,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1623894197016,
+                    "sponsored": false,
+                    "description": "Senator Andrew Bragg.",
+                    "photographer": "Alex Ellinghausen",
+                    "type": "landscape",
+                    "width": 1174,
+                    "height": 783,
+                    "assetType": "IMAGE",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1623894197016
+                }
+            ],
+            "companies": [],
+            "legalStatus": "Approved",
+            "sources": [
+                {
+                    "tagId": "AFR"
+                }
+            ],
+            "assetType": "ARTICLE",
+            "overrides": {
+                "overrideHeadline": "Andrew Bragg’s peculiar mortgage",
+                "overrideAbstract": "It’s highly irregular for an Australian senator to mortgage his property to the family office of a wealthy individual."
+            },
+            "timeStamp": 1676267132000
+        },
+        {
+            "id": 1520638488,
+            "categories": [
+                {
+                    "name": "Asia",
+                    "sectionPath": "/news/world/asia",
+                    "orderNum": 0
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Michael Smith",
+                    "title": "China Correspondent ",
+                    "email": "michael.smith@afr.com ",
+                    "relatedAssets": [],
+                    "relatedImages": [
+                        {
+                            "id": 1030192052,
+                            "categories": [],
+                            "brands": [],
+                            "authors": [],
+                            "url": "http://localhost:8080/image.jpg",
+                            "lastModified": 1553046783649,
+                            "sponsored": false,
+                            "description": "",
+                            "photographer": "",
+                            "type": "afrWoodcutAuthorImage",
+                            "width": 140,
+                            "height": 140,
+                            "assetType": "IMAGE",
+                            "timeStamp": 1553046783649
+                        }
+                    ]
+                }
+            ],
+            "url": "http://localhost:8080/article.html",
+            "lastModified": 1676278449005,
+            "sponsored": false,
+            "headline": "China moves to wind back Aussie beef and timber trade sanctions",
+            "indexHeadline": "China moves to wind back Aussie beef and timber trade sanctions",
+            "tabletHeadline": "",
+            "theAbstract": "Plans to draw back export restrictions in the two industries is the latest phase of China’s gradual easing of sanctions on Aussie goods.",
+            "byLine": "Michael Smith",
+            "acceptComments": false,
+            "numberOfComments": 0,
+            "relatedAssets": [
+                {
+                    "id": 1520636362,
+                    "categories": [
+                        {
+                            "name": "Asia",
+                            "sectionPath": "/news/world/asia",
+                            "orderNum": 0
+                        }
+                    ],
+                    "authors": [
+                        {
+                            "name": "Michael Smith",
+                            "title": "China Correspondent ",
+                            "email": "michael.smith@afr.com ",
+                            "relatedAssets": [],
+                            "relatedImages": [
+                                {
+                                    "id": 1030192052,
+                                    "categories": [],
+                                    "brands": [],
+                                    "authors": [],
+                                    "url": "http://localhost:8080/image.jpg",
+                                    "lastModified": 1553046783649,
+                                    "sponsored": false,
+                                    "description": "",
+                                    "photographer": "",
+                                    "type": "afrWoodcutAuthorImage",
+                                    "width": 140,
+                                    "height": 140,
+                                    "assetType": "IMAGE",
+                                    "timeStamp": 1553046783649
+                                }
+                            ]
+                        }
+                    ],
+                    "url": "http://localhost:8080/article.html",
+                    "lastModified": 1675753618755,
+                    "sponsored": false,
+                    "assetType": "ARTICLE",
+                    "headline": "Big business applauds China-Australia trade talks",
+                    "timeStamp": 1675734806000
+                }
+            ],
+            "relatedImages": [
+                {
+                    "id": 1029656005,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1528349542201,
+                    "sponsored": false,
+                    "description": "Australian beef on sale at a supermarket in Hangzhou, China. ",
+                    "photographer": "Chris Crerar ",
+                    "type": "wideLandscape",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1528349542201
+                },
+                {
+                    "id": 1029656005,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1528349542201,
+                    "sponsored": false,
+                    "description": "Australian beef on sale at a supermarket in Hangzhou, China. ",
+                    "photographer": "Chris Crerar ",
+                    "type": "thumbnail",
+                    "width": 375,
+                    "height": 250,
+                    "assetType": "IMAGE",
+                    "timeStamp": 1528349542201
+                },
+                {
+                    "id": 1029656005,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1528349542201,
+                    "sponsored": false,
+                    "description": "Australian beef on sale at a supermarket in Hangzhou, China. ",
+                    "photographer": "Chris Crerar ",
+                    "type": "afrArticleLead",
+                    "width": 1536,
+                    "height": 1010,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "large@2x": "",
+                    "timeStamp": 1528349542201
+                },
+                {
+                    "id": 1029656005,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1528349542201,
+                    "sponsored": false,
+                    "description": "Australian beef on sale at a supermarket in Hangzhou, China. ",
+                    "photographer": "Chris Crerar ",
+                    "type": "articleLeadWide",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1528349542201
+                },
+                {
+                    "id": 1029656005,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1528349542201,
+                    "sponsored": false,
+                    "description": "Australian beef on sale at a supermarket in Hangzhou, China. ",
+                    "photographer": "Chris Crerar ",
+                    "type": "afrIndexLead",
+                    "width": 1536,
+                    "height": 1010,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1528349542201
+                },
+                {
+                    "id": 1029656005,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1528349542201,
+                    "sponsored": false,
+                    "description": "Australian beef on sale at a supermarket in Hangzhou, China. ",
+                    "photographer": "Chris Crerar ",
+                    "type": "landscape",
+                    "width": 1174,
+                    "height": 783,
+                    "assetType": "IMAGE",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1528349542201
+                }
+            ],
+            "companies": [],
+            "legalStatus": "None",
+            "sources": [
+                {
+                    "tagId": "AFR"
+                }
+            ],
+            "assetType": "ARTICLE",
+            "overrides": {
+                "overrideHeadline": "China moves to wind back Aussie beef and timber trade sanctions",
+                "overrideAbstract": "Plans to draw back export restrictions in the two industries is the latest phase of China’s gradual easing of sanctions on Aussie goods."
+            },
+            "timeStamp": 1676273058000
+        },
+        {
+            "id": 1520637393,
+            "categories": [
+                {
+                    "name": "Residential",
+                    "sectionPath": "/real-estate/residential",
+                    "orderNum": 0
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Michael Bleby",
+                    "title": "Senior Reporter",
+                    "email": "mbleby@afr.com.au",
+                    "relatedAssets": [],
+                    "relatedImages": [
+                        {
+                            "id": 1030202028,
+                            "categories": [],
+                            "brands": [],
+                            "authors": [],
+                            "url": "http://localhost:8080/image.jpg",
+                            "lastModified": 1553561488738,
+                            "sponsored": false,
+                            "description": "",
+                            "photographer": "",
+                            "type": "afrWoodcutAuthorImage",
+                            "width": 140,
+                            "height": 140,
+                            "assetType": "IMAGE",
+                            "timeStamp": 1553561488738
+                        }
+                    ]
+                }
+            ],
+            "url": "http://localhost:8080/article.html",
+            "lastModified": 1676241625841,
+            "sponsored": false,
+            "headline": "Frustrated renters buy $3.8m terrace house",
+            "indexHeadline": "Frustrated renters buy $3.8m terrace house",
+            "tabletHeadline": "",
+            "theAbstract": "Three children in their 20s couldn’t find anywhere to rent in the suburb they wanted. So their father bought them a share house.",
+            "byLine": "Michael Bleby",
+            "acceptComments": false,
+            "numberOfComments": 0,
+            "relatedAssets": [
+                {
+                    "id": 1520638070,
+                    "categories": [
+                        {
+                            "name": "Residential",
+                            "sectionPath": "/real-estate/residential",
+                            "orderNum": 0
+                        }
+                    ],
+                    "authors": [
+                        {
+                            "name": "Nick Lenaghan",
+                            "title": "Property Editor",
+                            "email": "nlenaghan@afr.com ",
+                            "relatedAssets": [],
+                            "relatedImages": []
+                        }
+                    ],
+                    "url": "http://localhost:8080/article.html",
+                    "lastModified": 1676176767905,
+                    "sponsored": false,
+                    "assetType": "ARTICLE",
+                    "headline": "RBA warning casts shadow over auction market",
+                    "timeStamp": 1676173289000
+                },
+                {
+                    "id": 1520637394,
+                    "categories": [
+                        {
+                            "name": "Residential",
+                            "sectionPath": "/real-estate/residential",
+                            "orderNum": 0
+                        }
+                    ],
+                    "authors": [
+                        {
+                            "name": "Michael Bleby",
+                            "title": "Senior Reporter",
+                            "email": "mbleby@afr.com.au",
+                            "relatedAssets": [],
+                            "relatedImages": [
+                                {
+                                    "id": 1030202028,
+                                    "categories": [],
+                                    "brands": [],
+                                    "authors": [],
+                                    "url": "http://localhost:8080/image.jpg",
+                                    "lastModified": 1553561488738,
+                                    "sponsored": false,
+                                    "description": "",
+                                    "photographer": "",
+                                    "type": "afrWoodcutAuthorImage",
+                                    "width": 140,
+                                    "height": 140,
+                                    "assetType": "IMAGE",
+                                    "timeStamp": 1553561488738
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lucas Baird",
+                            "title": "Reporter",
+                            "email": "lucas.baird@afr.com.au",
+                            "relatedAssets": [],
+                            "relatedImages": []
+                        }
+                    ],
+                    "url": "http://localhost:8080/article.html",
+                    "lastModified": 1676247061285,
+                    "sponsored": false,
+                    "assetType": "ARTICLE",
+                    "headline": "Rate surge highlights need for negative gearing reform: Bouris",
+                    "timeStamp": 1676163516000
+                }
+            ],
+            "relatedImages": [
+                {
+                    "id": 1031740772,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181590844,
+                    "sponsored": false,
+                    "description": "The four-bedroom, 3-bathrooms terrace house at 89 Underwood Street, in Sydney’s Paddington sold prior to auction for $3.81 million.",
+                    "photographer": " ",
+                    "type": "wideLandscape",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676181590844
+                },
+                {
+                    "id": 1031740772,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181590844,
+                    "sponsored": false,
+                    "description": "The four-bedroom, 3-bathrooms terrace house at 89 Underwood Street, in Sydney’s Paddington sold prior to auction for $3.81 million.",
+                    "photographer": " ",
+                    "type": "thumbnail",
+                    "width": 375,
+                    "height": 250,
+                    "assetType": "IMAGE",
+                    "timeStamp": 1676181590844
+                },
+                {
+                    "id": 1031740772,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181590844,
+                    "sponsored": false,
+                    "description": "The four-bedroom, 3-bathrooms terrace house at 89 Underwood Street, in Sydney’s Paddington sold prior to auction for $3.81 million.",
+                    "photographer": " ",
+                    "type": "afrArticleLead",
+                    "width": 1536,
+                    "height": 1010,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "large@2x": "",
+                    "timeStamp": 1676181590844
+                },
+                {
+                    "id": 1031740772,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181590844,
+                    "sponsored": false,
+                    "description": "The four-bedroom, 3-bathrooms terrace house at 89 Underwood Street, in Sydney’s Paddington sold prior to auction for $3.81 million.",
+                    "photographer": " ",
+                    "type": "articleLeadWide",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676181590844
+                },
+                {
+                    "id": 1031740772,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181590844,
+                    "sponsored": false,
+                    "description": "The four-bedroom, 3-bathrooms terrace house at 89 Underwood Street, in Sydney’s Paddington sold prior to auction for $3.81 million.",
+                    "photographer": " ",
+                    "type": "afrIndexLead",
+                    "width": 1536,
+                    "height": 1010,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676181590844
+                },
+                {
+                    "id": 1031740772,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181590844,
+                    "sponsored": false,
+                    "description": "The four-bedroom, 3-bathrooms terrace house at 89 Underwood Street, in Sydney’s Paddington sold prior to auction for $3.81 million.",
+                    "photographer": " ",
+                    "type": "landscape",
+                    "width": 1174,
+                    "height": 783,
+                    "assetType": "IMAGE",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676181590844
+                },
+                {
+                    "id": 1031740770,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181587892,
+                    "sponsored": false,
+                    "description": "View of the property market: A father bought the home for his three children in their 20s, who found themselves unable to find a rental home in the suburb.",
+                    "photographer": " ",
+                    "type": "articleLeadWide",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676181587892
+                },
+                {
+                    "id": 1031740770,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181587892,
+                    "sponsored": false,
+                    "description": "View of the property market: A father bought the home for his three children in their 20s, who found themselves unable to find a rental home in the suburb.",
+                    "photographer": " ",
+                    "type": "afrArticleInline",
+                    "width": 620,
+                    "height": 0,
+                    "assetType": "IMAGE",
+                    "timeStamp": 1676181587892
+                },
+                {
+                    "id": 1031740769,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181584657,
+                    "sponsored": false,
+                    "description": "The three-bedroom house had a back yard larger than at most Paddington terraces. ",
+                    "photographer": " ",
+                    "type": "articleLeadWide",
+                    "width": 1500,
+                    "height": 844,
+                    "assetType": "IMAGE",
+                    "xLarge@2x": "",
+                    "xLarge": "",
+                    "large@2x": "",
+                    "large": "",
+                    "thumbnail@2x": "",
+                    "thumbnail": "",
+                    "timeStamp": 1676181584657
+                },
+                {
+                    "id": 1031740769,
+                    "categories": [],
+                    "brands": [],
+                    "authors": [],
+                    "url": "http://localhost:8080/image.jpg",
+                    "lastModified": 1676181584657,
+                    "sponsored": false,
+                    "description": "The three-bedroom house had a back yard larger than at most Paddington terraces. ",
+                    "photographer": " ",
+                    "type": "afrArticleInline",
+                    "width": 620,
+                    "height": 0,
+                    "assetType": "IMAGE",
+                    "timeStamp": 1676181584657
+                }
+            ],
+            "companies": [],
+            "legalStatus": "None",
+            "sources": [
+                {
+                    "tagId": "AFR"
+                }
+            ],
+            "assetType": "ARTICLE",
+            "overrides": {
+                "overrideHeadline": "Frustrated renters buy $3.8m terrace house",
+                "overrideAbstract": "Three children in their 20s couldn’t find anywhere to rent in the suburb they wanted. So their father bought them a share house."
+            },
+            "timeStamp": 1676241542000
+        }
+    ],
+    "relatedAssets": [],
+    "relatedImages": [],
+    "assetType": "ASSET_LIST",
+    "timeStamp": 1676277675193
+}
